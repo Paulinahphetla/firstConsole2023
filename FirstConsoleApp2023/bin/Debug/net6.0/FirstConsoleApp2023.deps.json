@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FirstConsoleApp2023/1.0.0": {
+        "runtime": {
+          "FirstConsoleApp2023.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FirstConsoleApp2023/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

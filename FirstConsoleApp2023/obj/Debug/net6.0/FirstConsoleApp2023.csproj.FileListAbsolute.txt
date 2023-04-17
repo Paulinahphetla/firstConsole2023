@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\FirstConsoleApp2023\FirstConsoleApp2023\bin\Debug\net6.0\FirstConsoleApp2023.exe
+C:\Users\Student\source\repos\FirstConsoleApp2023\FirstConsoleApp2023\bin\Debug\net6.0\FirstConsoleApp2023.deps.json
+C:\Users\Student\source\repos\FirstConsoleApp2023\FirstConsoleApp2023\bin\Debug\net6.0\FirstConsoleApp2023.runtimeconfig.json
+C:\Users\Student\source\repos\FirstConsoleApp2023\FirstConsoleApp2023\bin\Debug\net6.0\FirstConsoleApp2023.dll
+C:\Users\Student\source\repos\FirstConsoleApp2023\FirstConsoleApp2023\bin\Debug\net6.0\FirstConsoleApp2023.pdb
+C:\Users\Student\source\repos\FirstConsoleApp2023\FirstConsoleApp2023\obj\Debug\net6.0\FirstConsoleApp2023.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\FirstConsoleApp2023\FirstConsoleApp2023\obj\Debug\net6.0\FirstConsoleApp2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\FirstConsoleApp2023\FirstConsoleApp2023\obj\Debug\net6.0\FirstConsoleApp2023.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\FirstConsoleApp2023\FirstConsoleApp2023\obj\Debug\net6.0\FirstConsoleApp2023.AssemblyInfo.cs
+C:\Users\Student\source\repos\FirstConsoleApp2023\FirstConsoleApp2023\obj\Debug\net6.0\FirstConsoleApp2023.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\FirstConsoleApp2023\FirstConsoleApp2023\obj\Debug\net6.0\FirstConsoleApp2023.dll
+C:\Users\Student\source\repos\FirstConsoleApp2023\FirstConsoleApp2023\obj\Debug\net6.0\refint\FirstConsoleApp2023.dll
+C:\Users\Student\source\repos\FirstConsoleApp2023\FirstConsoleApp2023\obj\Debug\net6.0\FirstConsoleApp2023.pdb
+C:\Users\Student\source\repos\FirstConsoleApp2023\FirstConsoleApp2023\obj\Debug\net6.0\FirstConsoleApp2023.genruntimeconfig.cache
+C:\Users\Student\source\repos\FirstConsoleApp2023\FirstConsoleApp2023\obj\Debug\net6.0\ref\FirstConsoleApp2023.dll
